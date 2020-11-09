@@ -6,11 +6,20 @@
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
     </expand>
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e06a055e-832e-4c5b-bf72-a011360f7b85" name="Default Changelist" comment="" />
+    <list default="true" id="ee3034c6-fbc9-48fc-bfe8-ea86f039daf8" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,7 +36,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1jjSlG7Ls3J9A6YzCy9lISa4B12" />
+  <component name="ProjectId" id="1jp6jR4buA07wDcp7BhByjILl2A" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -37,19 +46,19 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../js_lesson_04" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../js_lesson_05" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e06a055e-832e-4c5b-bf72-a011360f7b85" name="Default Changelist" comment="" />
-      <created>1604316156872</created>
+      <changelist id="ee3034c6-fbc9-48fc-bfe8-ea86f039daf8" name="Default Changelist" comment="" />
+      <created>1604488820314</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1604316156872</updated>
-      <workItem from="1604316158390" duration="8090000" />
-      <workItem from="1604488810947" duration="9000" />
+      <updated>1604488820314</updated>
+      <workItem from="1604488821561" duration="6220000" />
+      <workItem from="1604661308283" duration="1919000" />
     </task>
     <servers />
   </component>
@@ -69,13 +78,9 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1604488818142">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1604663227087">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1604488818142" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1604322874913">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1604322874913" />
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1604663227087" />
   </component>
 </project>
